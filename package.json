@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-autobar",
+  "name": "vuepress-plugin-autobar-improvement",
   "version": "0.1.5",
   "description": "VuePress sidebar and navbar generator based on file and directory structure. Focus your documents, not sidebar or navbar.",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ozum/vuepress-bar.git"
+    "url": "git+https://github.com/wangzanning/vuepress-bar-improvement.git"
   },
   "keywords": [
     "vuepress",
@@ -25,9 +25,9 @@
   "author": "Özüm Eldoğan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ozum/vuepress-bar/issues"
+    "url": "https://github.com/wangzanning/vuepress-bar-improvement/issues"
   },
-  "homepage": "https://github.com/ozum/vuepress-bar#readme",
+  "homepage": "https://github.com/wangzanning/vuepress-bar-improvement#readme",
   "devDependencies": {
     "jest": "^24.8.0",
     "prettier": "^1.18.2"
