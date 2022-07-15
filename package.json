@@ -6,10 +6,7 @@
   "files": [
     "/lib"
   ],
-  "scripts": {
-    "test": "jest",
-    "prepublishOnly": "npm test"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wangzanning/vuepress-bar-improvement.git"
